@@ -1,0 +1,82 @@
+﻿ticker,status,keep,fund_pct,reason,sic,sector,asof_date,basis_fy,mismatch,notes
+KO,ok,1,0.6859,,2080,Beverages,2026-04-03,0,,
+MCD,ok,1,0.6158,,5812,Retail-Eating  Places,2026-03-31,0,,股东权益为负;ROE不适用
+V,missing:earn_vol,0,,missing:earn_vol,7389,Services-Business Services; NEC,2026-03-31,0,,
+TTWO,ok,0,0.1419,综合分位0.14<0.40,7372,Services-Prepackaged Software,2026-03-31,1,,部分科目用最近年报兜底(FY);近12个月无派息
+EW,ok,1,0.5779,,3842,Orthopedic; Prosthetic & Surgical Appliances & Supplies,2026-03-31,1,,部分科目用最近年报兜底(FY);近12个月无派息
+TJX,ok,1,0.6028,,5651,Retail-Family Clothing Stores,2026-05-02,1,,部分科目用最近年报兜底(FY)
+MA,ok,1,0.5854,,7389,Services-Business Services; NEC,2026-03-31,0,,
+DE,ok,0,0.3942,综合分位0.39<0.40,3523,Farm Machinery & Equipment,2026-05-03,0,,
+GD,ok,1,0.5398,,3730,Ship & Boat Building & Repairing,2026-04-05,0,revenue_tag_mismatch,
+EEM,no_cik,0,,no_cik,,,,,,
+PEP,ok,1,0.5821,,2080,Beverages,2026-03-21,0,,
+SCHW,ok,0,0.3503,综合分位0.35<0.40,6211,Security Brokers; Dealers & Flotation Companies,2026-03-31,0,cash_conv_out_of_range,
+LOW,ok,0,0.3786,综合分位0.38<0.40,5211,Retail-Lumber & Other Building Materials Dealers,2026-05-01,0,,股东权益为负;ROE不适用
+MSFT,ok,1,0.7067,,7372,Services-Prepackaged Software,2026-03-31,0,,
+XOM,missing:roe;net_margin;earn_vol,0,,missing:roe;net_margin;earn_vol,2911,Petroleum Refining,,0,,
+NEE,ok,1,0.5316,,4911,Electric Services,2026-03-31,0,,
+MMM,ok,1,0.5225,,3841,Surgical & Medical Instruments & Apparatus,2026-03-31,0,,
+JNJ,ok,1,0.6748,,2834,Pharmaceutical Preparations,2026-03-29,0,,
+ZM,ok,1,0.6556,,7370,Services-Computer Programming; Data Processing; Etc.,2026-04-30,0,,近12个月无派息
+BKNG,ok,0,0.3502,综合分位0.35<0.40,4700,Transportation Services,2026-03-31,0,,股东权益为负;ROE不适用
+F,ok,0,0.3995,综合分位0.40<0.40,3711,Motor Vehicles & Passenger Car Bodies,2026-03-31,1,,部分科目用最近年报兜底(FY)
+IBM,ok,1,0.5617,,3570,Computer & office Equipment,2026-03-31,0,,
+ROST,ok,1,0.6301,,5651,Retail-Family Clothing Stores,2026-05-02,0,,
+RTX,ok,1,0.4026,,3724,Aircraft Engines & Engine Parts,2026-03-31,1,,部分科目用最近年报兜底(FY)
+IWM,no_cik,0,,no_cik,,,,,,
+JPM,ok,1,0.4333,,6021,National Commercial Banks,2026-03-31,0,,
+DG,ok,1,0.4198,,5331,Retail-Variety Stores,2026-05-01,0,,
+BLK,ok,0,0.2928,综合分位0.29<0.40,6211,Security Brokers; Dealers & Flotation Companies,2026-03-31,0,,
+LMT,ok,1,0.4303,,3760,Guided Missiles & Space Vehicles & Parts,2026-03-29,1,,部分科目用最近年报兜底(FY)
+HD,ok,1,0.5236,,5211,Retail-Lumber & Other Building Materials Dealers,2026-05-03,0,,
+PNC,ok,1,0.4885,,6021,National Commercial Banks,2026-03-31,0,,
+ULTA,ok,1,0.5039,,5990,Retail-Retail Stores; NEC,2026-05-02,0,,近12个月无派息
+U,ok,0,0.2603,综合分位0.26<0.40,7372,Services-Prepackaged Software,2026-03-31,0,,近12个月无派息
+GOOGL,ok,1,0.6874,,7370,Services-Computer Programming; Data Processing; Etc.,2026-03-31,0,,
+GOOG,ok,1,0.6855,,7370,Services-Computer Programming; Data Processing; Etc.,2026-03-31,0,,
+DVN,ok,1,0.5966,,1311,Crude Petroleum & Natural Gas,2026-03-31,0,,
+GE,ok,1,0.6113,,3600,Electronic & Other Electrical Equipment (No Computer Equip),2026-03-31,0,,
+EMR,ok,1,0.5091,,3600,Electronic & Other Electrical Equipment (No Computer Equip),2026-03-31,0,,
+NXPI,ok,1,0.5571,,3674,Semiconductors & Related Devices,2026-03-29,0,,
+WFC,ok,1,0.6501,,6021,National Commercial Banks,2026-03-31,0,,
+FCX,ok,1,0.4468,,1000,Metal Mining,2026-03-31,1,,部分科目用最近年报兜底(FY)
+DIS,ok,0,0.3894,综合分位0.39<0.40,7990,Services-Miscellaneous Amusement & Recreation,2026-03-28,0,,
+WMT,ok,1,0.5006,,5331,Retail-Variety Stores,2026-04-30,0,,
+XLE,no_cik,0,,no_cik,,,,,,
+MPWR,ok,1,0.5161,,3674,Semiconductors & Related Devices,2026-03-31,0,,
+MPC,ok,0,0.3429,综合分位0.34<0.40,2911,Petroleum Refining,2026-03-31,0,,
+KLAC,ok,1,0.7296,,3827,Optical Instruments & Lenses,2026-03-31,0,,
+PFE,ok,1,0.5896,,2834,Pharmaceutical Preparations,2026-03-29,0,,
+USB,ok,1,0.5881,,6021,National Commercial Banks,2026-03-31,0,,
+SNOW,ok,0,0.2649,综合分位0.26<0.40,7372,Services-Prepackaged Software,2026-04-30,0,,近12个月无派息
+ISRG,ok,1,0.6125,,3842,Orthopedic; Prosthetic & Surgical Appliances & Supplies,2026-03-31,0,,近12个月无派息
+NEM,ok,1,0.6630,,1040,Gold and Silver Ores,2026-03-31,0,,
+NET,ok,0,0.3219,综合分位0.32<0.40,7372,Services-Prepackaged Software,2026-03-31,0,cash_conv_out_of_range,近12个月无派息
+META,ok,1,0.6642,,7370,Services-Computer Programming; Data Processing; Etc.,2026-03-31,1,,部分科目用最近年报兜底(FY)
+ON,ok,0,0.3715,综合分位0.37<0.40,3674,Semiconductors & Related Devices,2026-04-03,0,,近12个月无派息
+LYFT,ok,1,0.5078,,7389,Services-Business Services; NEC,2026-03-31,0,revenue_tag_mismatch,近12个月无派息
+NKE,ok,1,0.4535,,3021,Rubber & Plastics Footwear,2026-02-28,0,,
+MCHP,ok,0,0.3981,综合分位0.40<0.40,3674,Semiconductors & Related Devices,2026-03-31,0,,
+WSM,ok,1,0.6665,,5700,Retail-Home Furniture; Furnishings & Equipment Stores,2026-05-03,0,,
+QCOM,ok,1,0.6121,,3663,Radio & Tv Broadcasting & Communications Equipment,2026-03-29,0,,
+RIVN,ok,0,0.1358,综合分位0.14<0.40,3711,Motor Vehicles & Passenger Car Bodies,2026-03-31,0,,近12个月无派息
+MS,ok,1,0.6158,,6211,Security Brokers; Dealers & Flotation Companies,2026-03-31,0,,
+GM,ok,0,0.1803,综合分位0.18<0.40,3711,Motor Vehicles & Passenger Car Bodies,2026-03-31,0,revenue_tag_mismatch,
+UAL,ok,0,0.3358,综合分位0.34<0.40,4512,Air Transportation; Scheduled,2026-03-31,0,,近12个月无派息
+GS,ok,1,0.4079,,6211,Security Brokers; Dealers & Flotation Companies,2026-03-31,0,,
+LRCX,ok,1,0.6957,,3559,Special Industry Machinery; NEC,2026-03-29,0,,
+ROKU,ok,0,0.3939,综合分位0.39<0.40,4841,Cable & Other Pay Television Services,2026-03-31,0,,近12个月无派息
+DELL,ok,1,0.4293,,3571,Electronic Computers,2026-05-01,0,,股东权益为负;ROE不适用
+HAL,ok,1,0.4065,,1389,Oil & Gas Field Services; NEC,2026-03-31,0,,
+FSLR,ok,1,0.5666,,3674,Semiconductors & Related Devices,2026-03-31,0,,近12个月无派息
+SHOP,ok,1,0.4169,,7372,Services-Prepackaged Software,2026-03-31,0,,近12个月无派息
+TSM,missing:roe;net_margin;earn_vol,0,,missing:roe;net_margin;earn_vol,3674,Semiconductors & Related Devices,,0,,
+TMO,ok,1,0.4430,,3829,Measuring & Controlling Devices; NEC,2026-03-28,0,,
+NVDA,ok,1,0.8028,,3674,Semiconductors & Related Devices,2026-04-26,0,,
+BBY,ok,1,0.5783,,5731,Retail-Radio; Tv & Consumer Electronics Stores,2026-05-02,0,,
+WBD,ok,0,0.1476,综合分位0.15<0.40,4841,Cable & Other Pay Television Services,2026-03-31,0,,近12个月无派息
+LLY,ok,1,0.7000,,2834,Pharmaceutical Preparations,2026-03-31,0,,
+SWKS,ok,1,0.5013,,3674,Semiconductors & Related Devices,2026-04-03,0,,
+INTC,ok,0,0.1398,综合分位0.14<0.40,3674,Semiconductors & Related Devices,2026-03-28,0,,近12个月无派息
+MU,ok,1,0.7743,,3674,Semiconductors & Related Devices,2026-05-28,0,,
+MRK,ok,1,0.6339,,2834,Pharmaceutical Preparations,2026-03-31,0,,

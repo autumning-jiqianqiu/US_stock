@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+.mplconfig/
+
+# Office / editor lock & temp files
+~$*
+.~lock.*
+*.tmp
+*.bak
+
+# MT5 generated artifacts (keep sources: *.mq5 / *.mqh / *.set)
+*.ex5
+*.ex4
+*.hcc
+*.tkc
+*.log
